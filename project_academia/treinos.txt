@@ -1,0 +1,4 @@
+Boxe;45;Bolinha;Carlos de Almeida;Jab, direto e uppercut;30
+Musculação;50;Bolinha;João Almeida;8
+Zumba;30;João;Carla Souza;Algumas;Pisadinha
+Zumba;45;Bolinha;Armando;Alguma;Pisadinha

@@ -1,0 +1,6 @@
+João;10/04/2019;Noturno;inst123;1234;Musculação;Instrutor
+Laura;15/02/2020;Noturno;recep@;4321;Recepcionista
+Cláudia;23/03/2016;Diurno;aux123;12345;Auxiliar de limpeza
+Bolinha;15/03/2010;diurno;bolinha;3030;zumba;Instrutor
+Antônio;06/03/2020;Diurno;antonio64;8639;Administrador
+Carla;19/06/2019;Diurno;carla;869436;Nutricionista
